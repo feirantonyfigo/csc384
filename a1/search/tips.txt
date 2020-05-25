@@ -1,0 +1,6 @@
+/** WRITE YOUR TIPS IN THIS FILE **/
+1. For alternative heuristic design, we need to consider dead conditions. Dead conditions include 1) box at corner 2) box on the edge and no storage point is along the edge.
+
+2. For alternative heuristic design, we need to consider greedy approach to compute manhattan distance between boxes and close storage points. The greedy algorithm regulates that every storage point can only be used once.
+
+3. For alternative heuristic design, we need to consider the cost of moving robots. We need to consider the closest box relative to the robot and add the distance onto h_val.

@@ -1,0 +1,4 @@
+{
+  "propagators_test.py::test_simple_FC": true,
+  "propagators_test.py::test_simple_GAC": true
+}
